@@ -19,6 +19,8 @@
 ---
 
 ## 🛒 收費資訊
+訂單成立後，系統即會為您開通 DanceGPT 使用權限。
+
 <img width="223" height="61" alt="image" src="https://github.com/user-attachments/assets/4f95acfe-2d35-4260-b244-1e70dfdfee6d" />
 
 
