@@ -18,6 +18,12 @@
 
 ---
 
+## 🛒 收費資訊
+<img width="223" height="61" alt="image" src="https://github.com/user-attachments/assets/4f95acfe-2d35-4260-b244-1e70dfdfee6d" />
+
+
+---
+
 ## 🏭 核心應用場景 (Application Scenarios)
 
 DanceGPT 的設計初衷是為了解決各種軟體環境中「無 API 對接」時產生的機械化勞動：
