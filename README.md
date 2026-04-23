@@ -1,5 +1,5 @@
-# DanceGPT：AI 視覺辨識桌面自動化輔助工具
-### DanceGPT: An AI-Powered Desktop Interaction & Automation Assistant Tool
+# DanceGPT：視覺辨識桌面操作輔助工具
+### DanceGPT: Desktop Workflow Automation & Productivity Assistant
 💾 **[DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbx9HXEn6j8M8CR8tQ8yTRFP1GhmDyUAzTwepc1WkF7n7KNeu_DwoLmiQcZbC16G0EH3/exec)**
 <p align="left">
   <img src="https://i.imgur.com/4bW1LNO.gif" width="650" alt="DanceGPT Framework Visualization">
@@ -68,7 +68,7 @@ DanceGPT 的設計初衷是為了解決各種軟體環境中「無 API 對接」
 </p>
 
 
-### 👁️ AI 視覺辨識輔助
+### 👁️ 視覺辨識輔助
 整合先進的視覺追蹤與圖像特徵提取技術，實時監測螢幕狀態並根據預設邏輯作出動態反應，優化桌面操作的流暢度與穩定性。
 
 ### 🚨 遠端通報與自動化監控
@@ -143,6 +143,7 @@ DanceGPT 的設計初衷是為了解決各種軟體環境中「無 API 對接」
 
 若您對此輔助工具有任何技術建議或問題，請聯繫開發團隊：
 * **Email**: dancegpt0818@gmail.com
+* **TEL**: 0983749968
 
 ---
 © DanceGPT. All Rights Reserved.
